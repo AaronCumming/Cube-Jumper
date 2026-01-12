@@ -1,7 +1,7 @@
 # Cube Jumper
 
 ## Overview
-Cube Jumper is a arcade jumping platformer built in Unity. Players control a cube that jumps upward across platforms, avoiding obstacles and aiming to reach the highest possible score. Unlike procedural games, the game is manually designed to provide unique and intentional challenges. This project showcases custom physics, platform design, and smooth gameplay mechanics in Unity.
+Cube Jumper is an arcade jumping platformer built in Unity. Players control a cube that jumps upward across platforms, avoiding obstacles and aiming to reach the highest possible score. Unlike procedural games, the game is manually designed to provide unique and intentional challenges. This project showcases custom physics, platform design, and smooth gameplay mechanics in Unity.
 
 ## Features
 - Handcrafted: Every platform and obstacle is manually placed for a deliberate challenge.
